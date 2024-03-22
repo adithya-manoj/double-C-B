@@ -1,0 +1,165 @@
+.Navigation a{
+    color: black;
+
+}
+
+.nav-logo{
+    justify-content: left;
+    align-items: left;
+}
+.bgimg {
+    
+    background-image: url("D:/Projects/Cheese_Bacon/src/cta1.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 200vh;
+    width: 100%;
+    align-items: center;
+  
+    
+    
+}
+
+.nav-logo a:link, a:visited a:hover a:active{
+    color: crimson;
+    text-shadow: 1px;
+    text-decoration: none;
+    
+}
+
+.footer ul{
+    list-style: none;
+    padding: 0;
+
+}
+
+.footer ul{
+    text-align: left;
+}
+
+#footer-join{
+    color: rgb(87, 85, 85);
+    font-size: small;
+}
+
+.email-input {
+    position: relative;
+  }
+  
+  .email-input input[type="email"] {
+    padding: 10px 40px 10px 15px; /* Adjust padding as needed */
+    border: 1px solid #ccc; /* Sample border */
+    border-radius: 5px; /* Rounded corners for the input field */
+    background-color: white; /* Background color for the input field */
+    background-image: url(D:\Projects\Cheese_Bacon\src\send.png); /* Path to your logo */
+    background-repeat: no-repeat; /* Prevent the logo from repeating */
+    background-position: 10px center; /* Position the logo on the left side */
+    background-size: 20px 20px; /* Adjust the size of the logo */
+  }
+  
+  .email-input input[type="email"]:focus {
+    /* Additional styles for when the input field is focused */
+    outline: none; /* Remove default focus outline */
+    border-color: #007bff; /* Sample color for focus state */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Sample box shadow for focus state */
+  }
+  .delic button {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+
+.buttonyellow {
+  background: #FFCF23;
+  border-radius: 999px;
+  box-shadow: #c0bc64 0 10px 20px -10px;
+  box-sizing: border-box;
+  color: black;
+  cursor: pointer;
+  font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji","Segoe UI Symbol","Android Emoji","Helvetica Neue","Noto Sans",sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+  opacity: 1;
+  outline: 0 solid transparent;
+  padding: 8px 25px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+  word-break: break-word;
+  border: 0;
+}
+
+
+
+
+
+.button-17 {
+  background-color: #fff;
+  border-radius: 24px;
+  border-style: none;
+  box-shadow: rgba(0, 0, 0, .2) 0 3px 5px -1px,rgba(0, 0, 0, .14) 0 6px 10px 0,rgba(0, 0, 0, .12) 0 1px 18px 0;
+  box-sizing: border-box;
+  color: #000000;
+  cursor: pointer;
+  display: inline;
+  fill: currentcolor;
+  font-family: "Google Sans",Arial,sans-serif;
+  font-weight: 500;
+  max-width: 100%;
+  padding: 2px 24px;
+
+
+}
+
+.button-17:hover {
+  background: #F6F9FE;
+  color: #174ea6;
+}
+
+.button-17:active {
+  box-shadow: 0 4px 4px 0 rgb(60 64 67 / 30%), 0 8px 12px 6px rgb(60 64 67 / 15%);
+  outline: none;
+}
+
+.button-17:focus {
+  outline: none;
+  border: 2px solid #4285f4;
+}
+
+.button-17:not(:disabled) {
+  box-shadow: rgba(60, 64, 67, .3) 0 1px 3px 0, rgba(60, 64, 67, .15) 0 4px 8px 3px;
+}
+
+.button-17:not(:disabled):hover {
+  box-shadow: rgba(60, 64, 67, .3) 0 2px 3px 0, rgba(60, 64, 67, .15) 0 6px 10px 4px;
+}
+
+.button-17:not(:disabled):focus {
+  box-shadow: rgba(60, 64, 67, .3) 0 1px 3px 0, rgba(60, 64, 67, .15) 0 4px 8px 3px;
+}
+
+.button-17:not(:disabled):active {
+  box-shadow: rgba(60, 64, 67, .3) 0 4px 4px 0, rgba(60, 64, 67, .15) 0 8px 12px 6px;
+}
+
+.button-17:disabled {
+  box-shadow: rgba(60, 64, 67, .3) 0 1px 3px 0, rgba(60, 64, 67, .15) 0 4px 8px 3px;
+}
+
+.gradient-overlay {
+    background: linear-gradient(to bottom right, #FFCF23, #FFE27B);
+    opacity: 0.6; /* Adjust the opacity as needed */
+}
+
+.yellowicon{
+    
+    color: #FFCF23;
+}
